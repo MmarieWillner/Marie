@@ -1,0 +1,9 @@
+F:\Schule\Informatik\AA21_Mohsen\AA21_Mohsen\AA21_Mohsen\bin\Debug\AA21_Mohsen.exe.config
+F:\Schule\Informatik\AA21_Mohsen\AA21_Mohsen\AA21_Mohsen\bin\Debug\AA21_Mohsen.exe
+F:\Schule\Informatik\AA21_Mohsen\AA21_Mohsen\AA21_Mohsen\bin\Debug\AA21_Mohsen.pdb
+F:\Schule\Informatik\AA21_Mohsen\AA21_Mohsen\AA21_Mohsen\obj\Debug\AA21_Mohsen.csprojAssemblyReference.cache
+F:\Schule\Informatik\AA21_Mohsen\AA21_Mohsen\AA21_Mohsen\obj\Debug\AA21_Mohsen.Form1.resources
+F:\Schule\Informatik\AA21_Mohsen\AA21_Mohsen\AA21_Mohsen\obj\Debug\AA21_Mohsen.Properties.Resources.resources
+F:\Schule\Informatik\AA21_Mohsen\AA21_Mohsen\AA21_Mohsen\obj\Debug\AA21_Mohsen.csproj.GenerateResource.cache
+F:\Schule\Informatik\AA21_Mohsen\AA21_Mohsen\AA21_Mohsen\obj\Debug\AA21_Mohsen.exe
+F:\Schule\Informatik\AA21_Mohsen\AA21_Mohsen\AA21_Mohsen\obj\Debug\AA21_Mohsen.pdb
